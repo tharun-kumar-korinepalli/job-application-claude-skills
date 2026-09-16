@@ -19,7 +19,7 @@ Download `job-application-kit.skill` from the latest release, or zip the `skills
 ### Claude Code
 
 ```
-git clone https://github.com/<you>/job-application-skills
+git clone https://github.com/tharun-kumar-korinepalli/job-application-claude-skills
 cp -r job-application-skills/skills/job-application-kit ~/.claude/skills/
 ```
 
