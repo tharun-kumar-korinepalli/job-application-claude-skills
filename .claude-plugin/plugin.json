@@ -1,0 +1,7 @@
+{
+  "name": "job-application-skills",
+  "description": "Resume, CV, cover letter, German Bewerbung, ATS audit, interview prep and application tracking in one skill.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "skills": ["./skills/job-application-kit"]
+}

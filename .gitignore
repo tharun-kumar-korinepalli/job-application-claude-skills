@@ -1,0 +1,9 @@
+# personal application data never belongs in this repo
+applications/
+*.docx
+*.pdf
+!examples/**/*.pdf
+job_tracker.csv
+__pycache__/
+*.pyc
+.DS_Store
